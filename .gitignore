@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+.venv/
+songs/
+static/qrcode.png
+dist/
+build/
+qr.jpg
